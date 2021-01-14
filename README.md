@@ -1,1 +1,2 @@
-# samosa2
+# samosa
+# Flaky and tender fried samosa are one of the most popular recipes in North Indian cuisine. They feature a pastry-like crust but are filled with savory potatoes and peas for a hearty, delicious snack. This step-by-step guide will help you to make the flakiest, tastiest, absolutely best Punjabi samosa
